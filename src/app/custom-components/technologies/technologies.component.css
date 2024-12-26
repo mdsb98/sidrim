@@ -1,0 +1,28 @@
+/* technologies.component.css */
+.technologies-section {
+    padding: 4rem 2rem;
+  }
+  
+  .technologies-section h2 {
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .technologies-section h5 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .technologies-section p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #555;
+  }
+  
+  .material-icons {
+    margin-bottom: 0.5rem;
+  }
+  
+  .row p {
+    margin-top: 0;
+  }

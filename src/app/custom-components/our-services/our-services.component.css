@@ -1,0 +1,28 @@
+/* our-services.component.css */
+.services-section {
+    padding: 4rem 2rem;
+  }
+  
+  .services-section h2 {
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  .services-section h5 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  
+  .services-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #555;
+  }
+  
+  .material-icons {
+    margin-bottom: 0.5rem;
+  }
+  
+  .row p {
+    margin-top: 0;
+  }

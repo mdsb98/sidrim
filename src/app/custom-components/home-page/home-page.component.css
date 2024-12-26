@@ -1,0 +1,108 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+/*------ navbar css -------*/
+/* General Styling */
+.nav-wrapper {
+  font-family: 'Roboto', sans-serif;
+}
+
+.brand-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.nav-wrapper a {
+  font-size: 1.2rem;
+  color: white;
+}
+
+.nav-wrapper a:hover {
+  color: #ffeb3b;
+}
+
+/* Mobile Sidenav Styles */
+.sidenav {
+  background-color: #e1e8ec4b;
+  font-family: 'Roboto', sans-serif;
+}
+
+.sidenav a {
+  color: #ffffff;
+  font-size: 1.5rem;
+  /* padding: 1rem 2rem; */
+  display: block;
+}
+
+.sidenav a:hover {
+  background-color: #37474f;
+  color: #ffeb3b;
+}
+
+.sidenav li {
+  border-bottom: 1px solid #455a64;
+}
+
+.sidenav .brand-logo {
+  font-size: 2rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+/* Adjustments for Mobile Devices */
+@media (max-width: 768px) {
+  .brand-logo {
+    font-size: 1.5rem;
+  }
+  
+  .sidenav-trigger i {
+    font-size: 2rem;
+  }
+  
+  .sidenav a {
+    font-size: 1.2rem;
+  }
+}
+
+
+/*------ navbar css -------*/
+
+
+  .hero-content {
+    padding-top: 15%;
+  }
+  
+  .hero-title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .parallax{
+    height: 100% !important;
+  }
+  .parallax img{
+    opacity: 1 !important;
+    background-size: fill !important;
+    
+  }
+  .card .card-content {
+    padding: 45px !important;
+}
+  .card-content i {
+    margin-bottom: 1rem;
+  }
+  
+  .chip {
+    font-size: 1rem;
+    padding: 0 20px;
+  }
+  
+  .page-footer {
+    padding: 1rem 0;
+  }
+  

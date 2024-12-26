@@ -1,0 +1,49 @@
+.about-section {
+    padding: 2rem 2rem;
+  }
+  .amaterial-icons{
+    font-size: 10px !important;
+  }  
+  .about-section h2 {
+    font-weight: normal;
+    margin-bottom: 2rem;
+  }
+  .about-icons{
+    margin-top: 50px !important;
+  }
+  
+  .flow-text{
+    margin-top: 40px !important;
+  }
+  
+  .about-section p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #555;
+  }
+  
+  .about-section img {
+    border-radius: 10px;
+    margin-bottom: 2rem;
+  }
+  
+  .freelancing-section {
+    margin-top: 1rem !important;
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .freelancing-section h3 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .material-icons {
+    margin-bottom: 0.5rem;
+  }
+  
+  .row p {
+    margin-top: 0;
+  }

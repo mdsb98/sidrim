@@ -1,0 +1,39 @@
+/* our-team.component.css */
+.team-section {
+    padding: 2rem 2rem;
+  }
+  
+  .team-section h2 {
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  .team-section p{
+    font-size: 14px;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-image img {
+    border-radius: 10px 10px 0 0;
+    height:35vh !important;
+    width: 90% !important;
+    margin: 5px !important;
+  }
+  
+  .card-content h5 {
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  
+  .card-action i {
+    margin: 0 10px;
+  }
